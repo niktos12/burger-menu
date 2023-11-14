@@ -1,0 +1,17 @@
+body{
+    width: 100%;
+    .menu{
+        .burger{
+            .show-info{
+                background-color: orange;
+                color: #fff;
+            }
+        }
+        .info{
+            display: none;
+        }
+        .active{
+            display: flex;
+        }
+    }
+}

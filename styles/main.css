@@ -1,0 +1,15 @@
+body {
+  width: 100%;
+}
+body .menu .burger .show-info {
+  background-color: orange;
+  color: #fff;
+}
+body .menu .info {
+  display: none;
+}
+body .menu .active {
+  display: flex;
+}
+
+/*# sourceMappingURL=main.css.map */
